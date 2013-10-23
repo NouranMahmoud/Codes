@@ -1,1 +1,1 @@
-read me
+all copyrights is preserved.
