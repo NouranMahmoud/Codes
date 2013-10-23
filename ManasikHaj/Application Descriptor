@@ -1,0 +1,7 @@
+MIDlet-Version: 1.0
+MIDlet-Vendor: Nouran Mahmoud Marouf
+MIDlet-Jar-URL: Manasik.jar
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.1
+MIDlet-1: Manasik,/Icon.png,Manasik
+MIDlet-Name: Manasik MIDlet Suite
